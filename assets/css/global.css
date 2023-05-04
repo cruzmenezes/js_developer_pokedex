@@ -29,6 +29,10 @@ h1 {
     background-color: #fff;
 }
 
+/* .btn:hover{
+    animation:btn-animation 1s ease-out forwards ;
+} */
+
 @media screen and (min-width: 992px) {
 
     .content {
@@ -38,3 +42,7 @@ h1 {
         border-radius: 1rem;
     }
 }
+
+/* @keyframes btn-animation{
+
+} */
